@@ -1,28 +1,47 @@
-# 👋 Hi, I'm Vishal
+# 👋 Hi, I'm Vishal Choudhary
 
 🎓 B.Tech CSE Student  
 📊 Aspiring Data Analyst  
-💻 Learning Python, SQL, Power BI  
-🚀 Building Real-World Projects  
+💻 Passionate About Data Analytics & Technology  
+🚀 Currently Building Real-World Projects  
 
 ---
 
-# 🛠 Skills
+# 🛠 Tech Stack
+
+### 👨‍💻 Languages
 - Python
 - SQL
+- HTML/CSS
+
+### 📊 Data Analytics
 - Excel
 - Power BI
-- Git & GitHub
+- Data Visualization
+- Pandas
+- NumPy
+
+### ⚙️ Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
 # 📌 Current Focus
-- Data Analytics
-- Projects
+- Data Analytics Projects
 - Internship Preparation
 - Problem Solving
+- Dashboard Building
+
+---
+
+# 🌱 Currently Learning
+- Advanced SQL
+- Machine Learning Basics
+- Power BI Dashboards
 
 ---
 
 # 📫 Connect With Me
-LinkedIn: https://linkedin.com/in/vishal-choudhary008
+🔗 LinkedIn: https://linkedin.com/in/vishal-choudhary008
